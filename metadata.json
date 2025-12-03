@@ -1,0 +1,5 @@
+{
+  "name": "BananaGen Studio",
+  "description": "A powerful yet simple AI image generator using the Nano Banana model (Gemini Flash Image). Features split-view editing, day/night modes, and historical comparison.",
+  "requestFramePermissions": []
+}
